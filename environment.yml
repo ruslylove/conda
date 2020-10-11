@@ -11,7 +11,7 @@ dependencies:
   - partd
   - bokeh
   - dask
-  - cv2
+  - opencv-python
   - xeus-cling=0.10.0
   - xtensor=0.21.2
   - xtensor-blas=0.17.1
