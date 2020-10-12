@@ -12,4 +12,4 @@ dependencies:
   - bokeh
   - dask
   - opencv
-  - libgl1-mesa-glx
+  - py-opencv
