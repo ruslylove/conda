@@ -11,12 +11,4 @@ dependencies:
   - partd
   - bokeh
   - dask
-  - opencv
-  - opencv
-  - ffmpeg
-  - libsm6 
-  - libxext6
-  - xeus-cling=0.10.0
-  - xtensor=0.21.2
-  - xtensor-blas=0.17.1
-  - notebook
+  - opencv==3.1
